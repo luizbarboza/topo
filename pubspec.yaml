@@ -1,5 +1,5 @@
 name: topo
-version: 1.0.0
+version: 1.0.1
 description: TopoJSON is an extension of GeoJSON that encodes topology and eliminates redundancy.
 repository: https://github.com/luizbarboza/topo
 
